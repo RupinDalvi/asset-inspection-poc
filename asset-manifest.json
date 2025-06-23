@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/asset-inspection-poc/dashboard/static/css/main.23af543d.css",
-    "main.js": "/asset-inspection-poc/dashboard/static/js/main.fd5af97d.js",
-    "index.html": "/asset-inspection-poc/dashboard/index.html",
-    "main.23af543d.css.map": "/asset-inspection-poc/dashboard/static/css/main.23af543d.css.map",
-    "main.fd5af97d.js.map": "/asset-inspection-poc/dashboard/static/js/main.fd5af97d.js.map"
+    "main.css": "/asset-inspection-poc/static/css/main.6a5168ef.css",
+    "main.js": "/asset-inspection-poc/static/js/main.c384cfbc.js",
+    "index.html": "/asset-inspection-poc/index.html",
+    "main.6a5168ef.css.map": "/asset-inspection-poc/static/css/main.6a5168ef.css.map",
+    "main.c384cfbc.js.map": "/asset-inspection-poc/static/js/main.c384cfbc.js.map"
   },
   "entrypoints": [
-    "static/css/main.23af543d.css",
-    "static/js/main.fd5af97d.js"
+    "static/css/main.6a5168ef.css",
+    "static/js/main.c384cfbc.js"
   ]
 }
